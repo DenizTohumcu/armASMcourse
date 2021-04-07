@@ -1,3 +1,6 @@
+; ARM Assembly Language Program To Add Some ;
+; Data and Store the SUM in R3.
+
 AREA mycode, CODE, READONLY
 ENTRY
 
